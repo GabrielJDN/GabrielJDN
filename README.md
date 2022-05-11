@@ -3,7 +3,7 @@ Hello, my name is Gabriel João Dalla Nora and I'm 24 years old. I have an bache
 <ul>
   <li> I'm currently studying Data Science and machine learning. <\li>
   <li> I have knowledge about the FORTRAN and Python languages. I also have experience with Wolfram Mathematica.<\li>
-  <li> You can contact me here: gabrieldalanora@hotmail.com<\li>
+  <li> You can contact me here: gabrieldalanora@hotmail.com <\li>
   <li> LinkedIn :https://www.linkedin.com/in/gabriel-joão-dalla-nora-769a69144/ <\li>
 <\ul>
 
