@@ -17,7 +17,7 @@ Structure
 This portfolio is structured in the following way: I have projects written both in portuguese and english. As for my study notes, they are all written in portuguese.
 
 <h3>Data Analysis Projects</h3>
-* **São Paulo Housing Price:** In this project, I cleaned the data, found the outliers and created an ML algorithm where giving some parameters we could find how much we should sell a house in its neighborhood. Here is the project in  <a href=https://github.com/GabrielJDN/Projetos-Projects/blob/main/English/São%20Paulo%20housing%20prices/Final%20Project.ipynb>english</a> and here in <a href=https://github.com/GabrielJDN/Projetos-Projects/blob/main/Português/Previsão%20de%20preço%20de%20imóveis%20em%20São%20Paulo/Projeto_Final_Portugues.ipynb>portuguese</a>.
+* <b>São Paulo Housing Price:</b> In this project, I cleaned the data, found the outliers and created an ML algorithm where giving some parameters we could find how much we should sell a house in its neighborhood. Here is the project in  <a href=https://github.com/GabrielJDN/Projetos-Projects/blob/main/English/São%20Paulo%20housing%20prices/Final%20Project.ipynb>english</a> and here in <a href=https://github.com/GabrielJDN/Projetos-Projects/blob/main/Português/Previsão%20de%20preço%20de%20imóveis%20em%20São%20Paulo/Projeto_Final_Portugues.ipynb>portuguese</a>.
 
 <!---
 GabrielJDN/GabrielJDN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
