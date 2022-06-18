@@ -1,7 +1,7 @@
 <h1>Wellcome to my portfolio of projects and studies!</h1> 
 
 <h3>About Me:</h3>
-Hello, my name is Gabriel João Dalla Nora and I'm 24 years old. I have an bachelor degree in Pyshics @UFSM(Universidade Federal de Santa Maria).
+Hello, my name is Gabriel João Dalla Nora and I'm 24 years old. I have an bachelor's degree in Pyshics @UFSM(Universidade Federal de Santa Maria).
 
 <ul>
   <li> I'm currently studying Data Analysis, with focus on Python, SQL and PowerBI. </li>
