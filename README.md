@@ -19,6 +19,7 @@ This portfolio is structured in the following way: I have projects written both 
 <h3>Data Analysis Projects</h3>
 <ul>
   <li><b>São Paulo Housing Price:</b> In this project, I cleaned the data, found the outliers and created an ML algorithm where giving some parameters we could find how much we should sell a house in its neighborhood. Here is the project in  <a href=https://github.com/GabrielJDN/Projetos-Projects/blob/main/English/São%20Paulo%20housing%20prices/Final%20Project.ipynb>english</a> and here in <a href=https://github.com/GabrielJDN/Projetos-Projects/blob/main/Português/Previsão%20de%20preço%20de%20imóveis%20em%20São%20Paulo/Projeto_Final_Portugues.ipynb>portuguese</a>.</li>
+  <li><b>OLIST Data Analysis:</b> Olist is an Brazillian online marketplace. In this project, I try to answer some questions related that people from the bussiness area are interested in (for example creating some KPI's, the best selling products each month, who are our best sellers). For now, this project is still in progress.</li>
 </ul>
 
 <!---
