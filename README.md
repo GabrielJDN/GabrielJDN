@@ -1,3 +1,6 @@
+<h1>Wellcome to my portfolio of projects and studies!</h1> 
+
+<h3>About Me:</h3>
 Hello, my name is Gabriel João Dalla Nora and I'm 24 years old. I have an bachelor degree in Pyshics @UFSM(Universidade Federal de Santa Maria).
 
 <ul>
@@ -6,6 +9,7 @@ Hello, my name is Gabriel João Dalla Nora and I'm 24 years old. I have an bache
   <li> You can contact me here: gabrieljoao.dallanora@gmail.com </li>
   <li> LinkedIn: https://www.linkedin.com/in/gabriel-joão-dalla-nora-769a69144/ </li>
 </ul>
+
 
 <!---
 GabrielJDN/GabrielJDN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
